@@ -1,0 +1,17 @@
+wheel
+pip
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.4.0
+cffi==1.15.0
+chardet==4.0.0
+discord.py==2.2.2
+greenlet==2.0.2
+idna==3.3
+multidict==6.0.2
+pycparser==2.21
+six==1.16.0
+SQLAlchemy==2.0.9
+timedelta==2020.12.3
+typing-extensions==4.5.0
+yarl==1.7.2
