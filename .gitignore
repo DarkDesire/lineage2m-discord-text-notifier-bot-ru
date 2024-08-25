@@ -1,0 +1,6 @@
+env/
+*/__pycache__
+.credentials
+requirements.txt
+text-bot.py
+utils/
