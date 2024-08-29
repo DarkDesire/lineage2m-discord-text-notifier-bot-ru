@@ -1,10 +1,8 @@
 # Lineage 2M Discord Text Boss Notifier Ru
 > If you need an English version, send me a private message. Contact details are below. The bot is paid.
 
-<br/>Дата обновления бота: 2024-08-29
-<br/>
-<br/>
 ## Текстовый бот Lineage 2M, оповещает о респаунах боссов в Discord 
+<br/> [x] Дата обновления бота: __2024-08-29__
 <br/> [x] Не требователен к железу. Достаточно python на сервере.
 <br/> [x] **Платный. 50евро или 5тр**
 <br/> (_Также есть и голосовая версия бота (за отдельную плату)_)
